@@ -23,7 +23,7 @@ Este projeto implementa um menu circular interativo utilizando HTML, CSS e JavaS
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/circle-menu
+    git clone https://github.com/izaq-code/circle-menu
     ```
 
 2. Navegue até o diretório do projeto:
